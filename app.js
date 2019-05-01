@@ -22,5 +22,6 @@ async function go()
 
   // Test the model and display output 
   model.predict(training_data).print();
-  }
+}
+
 go();
